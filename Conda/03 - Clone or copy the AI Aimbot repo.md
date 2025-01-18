@@ -15,7 +15,7 @@ Open a terminal window on your computer. If you're using Windows, you can use Gi
 
 Navigate to the directory where you want to clone the repository using the `cd` (change directory) command. For example:
 ```
-
+aim bot pink gold trooper
 ```bash
 cd /path/to/your/directory
 ```
